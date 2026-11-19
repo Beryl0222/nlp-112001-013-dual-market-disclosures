@@ -1,0 +1,26 @@
+[
+  {
+    "id": "z1",
+    "market": "南市",
+    "notice": "甲",
+    "text": "上年数重列只影响合并口径。各行以万元列报。"
+  },
+  {
+    "id": "z2",
+    "market": "湾市",
+    "notice": "A",
+    "text": "Comparative figures for the group are restated."
+  },
+  {
+    "id": "z3",
+    "market": "湾市",
+    "notice": "B",
+    "text": "Amounts are in thousands of local currency unless specified otherwise."
+  },
+  {
+    "id": "z4",
+    "market": "南市",
+    "notice": "更正",
+    "text": "合并上年数应为十九万元。本年数和母公司均无需调整。"
+  }
+]

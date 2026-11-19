@@ -1,0 +1,34 @@
+[
+  {
+    "id": "n1",
+    "market": "南市",
+    "entity": "合并",
+    "period": "2026",
+    "language": "zh",
+    "text": "本期按旧政策已确认服务收入三十万元，比较数见表二及脚注甲。"
+  },
+  {
+    "id": "n2",
+    "market": "湾市",
+    "entity": "合并",
+    "period": "2026",
+    "language": "en",
+    "text": "Under the new policy we will recognize service revenue of 30 units. Prior-period amounts are shown in table B."
+  },
+  {
+    "id": "n3",
+    "market": "南市",
+    "entity": "母公司",
+    "period": "2026",
+    "language": "zh",
+    "text": "本期确认服务收入三十万元，仅为母公司口径。"
+  },
+  {
+    "id": "n4",
+    "market": "湾市",
+    "entity": "合并",
+    "period": "2026",
+    "language": "en",
+    "text": "For the group, 30 thousands of local currency was recognized under the former policy."
+  }
+]

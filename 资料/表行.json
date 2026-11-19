@@ -1,0 +1,42 @@
+[
+  {
+    "id": "a1",
+    "market": "南市",
+    "table": "表二",
+    "period": "2025",
+    "entity": "合并",
+    "amount": "18",
+    "unit": "万元",
+    "footnote": "甲"
+  },
+  {
+    "id": "a2",
+    "market": "南市",
+    "table": "表二",
+    "period": "2026",
+    "entity": "合并",
+    "amount": "30",
+    "unit": "万元",
+    "footnote": "甲"
+  },
+  {
+    "id": "a3",
+    "market": "湾市",
+    "table": "B",
+    "period": "2025",
+    "entity": "合并",
+    "amount": "180",
+    "unit": "千元",
+    "footnote": "A"
+  },
+  {
+    "id": "a4",
+    "market": "湾市",
+    "table": "B",
+    "period": "2026",
+    "entity": "合并",
+    "amount": "30",
+    "unit": "千元",
+    "footnote": "B"
+  }
+]
